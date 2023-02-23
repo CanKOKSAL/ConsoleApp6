@@ -1,0 +1,52 @@
+*{
+  margin: 40px;
+  padding: 0;
+}
+
+.conteiner{
+  position: relative;
+  width: 90%;
+  
+}
+.conteiner img{
+  width: 100%;
+  margin: auto;
+}
+.info{
+  position: absolute;
+  color: black;
+  top: 0%;
+  widows: 100%;
+  text-align: center;
+  left: 10%;
+}
+.students{
+  position: absolute;
+  text-align: center;
+  top: 10%;
+  color: black;
+  
+}
+.career{
+  position: absolute;
+  text-align: center;
+  top: 10%;
+  color: black;
+  left: 25%;
+  
+}
+.job{
+  position: absolute;
+  text-align: center;
+  top: 10%;
+  color: black;
+  left: 60%;
+  
+}
+.promotion{
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 32%;
+  color: black;
+}
